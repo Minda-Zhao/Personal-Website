@@ -11,5 +11,5 @@
 <h4 style="margin:0 10px 0;">Session Chair</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>International Conference on Continuous Optimization (ICCOPT) 2025</autocolor></a></li>
+  <li><a href="https://sites.google.com/view/iccopt2025/home"><autocolor>International Conference on Continuous Optimization (ICCOPT) 2025</autocolor></a></li>
 </ul>
