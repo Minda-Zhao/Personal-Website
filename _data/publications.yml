@@ -2,11 +2,6 @@ main:
 
   - title: "Stochastic Steffensen Method"
     authors: <strong>Minda Zhao</strong>, Zehua Lai, Lek-Heng Lim
-  #   # conference_short: MICCAI
-    conference: Computational Optimization and Applications, 
-    page: https://link.springer.com/article/10.1007/s10589-024-00583-7
+    conference: Computational Optimization and Applications, vol. 89, no. 1, pp. 1-32, 2024
     pdf: https://arxiv.org/pdf/2211.15310
-  #   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5139524
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   # image: ./assets/img/teaser_example_2.png
-  #   # notes: Under Review
+    page: https://link.springer.com/article/10.1007/s10589-024-00583-7
