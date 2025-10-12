@@ -3,10 +3,10 @@
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4> -->
 
 <ul style="margin:0 0 20px;">
-  <li>Third Place, CSAMSE Practice Award, 2024</a></li>
-  <li>NCCR Automation Fellowship, 2024</a></li>
-  <li>Hansen Fellowship, 2021</a></li>
-  <li>First-class Scholarship, 2018</a></li>
+  <li>Third Place, CSAMSE Practice Award, 2024</li>
+  <li>NCCR Automation Fellowship, 2024</li>
+  <li>Hansen Fellowship, 2021</li>
+  <li>First-class Scholarship, 2018</li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Session Chair</h4> -->
