@@ -1,0 +1,16 @@
+## Honors and Awards
+
+<!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4> -->
+
+<ul style="margin:0 0 20px;">
+  <li>Third Place, CSAMSE Practice Award, 2024</a></li>
+  <li>NCCR Automation Fellowship, 2024</a></li>
+  <li>Hansen Fellowship, 2021</a></li>
+  <li>First-class Scholarship, 2018</a></li>
+</ul>
+
+<!-- <h4 style="margin:0 10px 0;">Session Chair</h4> -->
+
+<!-- <ul style="margin:0 0 5px;">
+  <li><a href="https://sites.google.com/view/iccopt2025/home"><autocolor>International Conference on Continuous Optimization (ICCOPT) 2025</autocolor></a></li>
+</ul> -->
