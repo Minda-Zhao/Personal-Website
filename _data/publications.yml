@@ -1,22 +1,22 @@
 main:
 
-  # - title: A Simple Solution to Improving Human Supervision of Algorithms: Evidence from Smart Vending
-  #   authors: <strong>Minda Zhao</strong>, Brian Rongqing Han, Xin Chen, Tao Zhu
+  - title: "A Simple Solution to Improving Human Supervision of Algorithms: Evidence from Smart Vending"
+    authors: <strong>Minda Zhao</strong>, Brian Rongqing Han, Xin Chen, Tao Zhu
   #   # conference_short: MICCAI
-  #   conference: Under Review
+    conference: Under Review
   #   # pdf: https://arxiv.org/pdf/2306.00988.pdf
   #   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5139524
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
   #   # image: ./assets/img/teaser_example_2.png
   #   # notes: Under Review
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Landscape of Policy Optimization for Finite Horizon MDPs with General State and Action"
+    authors: Xin Chen, Yifan Hu, <strong>Minda Zhao</strong> (alphabetic order)
+    # conference_short: CVPR
+    conference: Under Revision
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
