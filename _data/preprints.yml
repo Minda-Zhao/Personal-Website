@@ -8,7 +8,7 @@ main:
   #   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5139524
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
   #   # image: ./assets/img/teaser_example_2.png
-  #   # notes: Under Review
+    notes: Third Place, 2024 CSAMSE Practice Award
 
   - title: "Landscape of Policy Optimization for Finite Horizon MDPs with General State and Action"
     authors: Xin Chen, Yifan Hu, <strong>Minda Zhao</strong> (alphabetic order)
