@@ -3,7 +3,7 @@ main:
   - title: "A Simple Solution to Improving Human Supervision of Algorithms: Evidence from Smart Vending"
     authors: <strong>Minda Zhao</strong>, Brian Rongqing Han, Xin Chen, Tao Zhu
   #   # conference_short: MICCAI
-    conference: Under Review at Manufacturing & Service Operations Management
+    conference: Under Review at **Manufacturing & Service Operations Management**
     ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5139524
   #   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5139524
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -13,7 +13,7 @@ main:
   - title: "Landscape of Policy Optimization for Finite Horizon MDPs with General State and Action"
     authors: Xin Chen, Yifan Hu, <strong>Minda Zhao</strong> (alphabetic order)
     # conference_short: CVPR
-    conference: Under Revision at Operations Research
+    conference: Under Revision at **Operations Research**
     arxiv: https://arxiv.org/abs/2409.17138
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
