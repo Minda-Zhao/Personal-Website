@@ -4,6 +4,7 @@ main:
     authors: Xin Chen, Linwei Xin, <strong>Minda Zhao</strong> (alphabetic order)
   #   # conference_short: MICCAI
     conference: Submitted
+    arxiv: https://arxiv.org/abs/2511.03955
     ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5709506
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
   #   # image: ./assets/img/teaser_example_2.png
