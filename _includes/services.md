@@ -5,6 +5,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://pubsonline.informs.org/journal/opre"><autocolor>Operations Research</autocolor></a></li>
   <li><a href="https://pubsonline.informs.org/journal/mnsc"><autocolor>Management Science</autocolor></a></li>
+  <li><a href="https://onlinelibrary.wiley.com/journal/15206750"><autocolor>Naval Research Logistics</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10589"><autocolor>Computational Optimization and Applications</autocolor></a></li>
 </ul>
 
