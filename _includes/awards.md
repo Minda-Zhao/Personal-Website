@@ -9,7 +9,7 @@
   <li>Third Place, CSAMSE Practice Award, 2024</li>
   <li>NCCR Automation Fellowship, 2024</li>
   <li>Hansen Fellowship, 2021</li>
-  <li>First-class Scholarship, 2018</li>
+  <!-- <li>First-class Scholarship, 2018</li> -->
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Session Chair</h4> -->
