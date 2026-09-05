@@ -14,4 +14,5 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://sites.google.com/view/iccopt2025/home"><autocolor>International Conference on Continuous Optimization (ICCOPT) 2025</autocolor></a></li>
+  <li><a href="https://meetings.informs.org/wordpress/annual/"><autocolor>INFORMS Annual Meeting 2026</autocolor></a></li>
 </ul>
