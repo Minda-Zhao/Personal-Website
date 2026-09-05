@@ -17,4 +17,6 @@ I am a fifth-year Ph.D. student in the Operations Research program at <a href="h
 
 {% include_relative _includes/awards.md %}
 
+{% include_relative _includes/teaching.md %}
+
 {% include_relative _includes/services.md %}
