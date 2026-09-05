@@ -18,12 +18,12 @@ main:
   #   SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5139524
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
   #   # image: ./assets/img/teaser_example_2.png
-    notes: Winner, CBOM Junior Scholar Paper Competition, 2026 <br> Third Place, CSAMSE Practice Award, 2024
+    notes: <strong>Finalist</strong>, INFORMS BOM Section Best Working Paper Competition, 2026 <br> Winner, CBOM Junior Scholar Paper Competition, 2026 <br> Third Place, CSAMSE Practice Award, 2024
 
   - title: "Landscape of Policy Optimization for Finite Horizon MDPs with General State and Action"
     authors: Xin Chen, Yifan Hu, <strong>Minda Zhao</strong> (alphabetic order)
     # conference_short: CVPR
-    conference: Under R&R at Operations Research
+    conference: Under R&R at Operations Research, re-submitted
     arxiv: https://arxiv.org/abs/2409.17138
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
