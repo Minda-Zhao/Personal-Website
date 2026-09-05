@@ -21,6 +21,8 @@ I got an M.S. in Computational and Applied Mathematics from the University of Ch
 
 {% include_relative _includes/preprints.md %}
 
+{% include_relative _includes/workingpaper.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/awards.md %}
