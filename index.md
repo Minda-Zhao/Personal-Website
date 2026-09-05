@@ -8,9 +8,9 @@ I am a final-year Ph.D. student in the Operations Research program at <a href="h
 
 I got an M.S. in Computational and Applied Mathematics from the University of Chicago, where I worked closely with Prof. <a href="https://www.stat.uchicago.edu/~lekheng/">Lek-Heng Lim</a>. Before that, I obtained my B.S. in Information and Computing Science from Sun Yat-sen University.
 
-<strong>I am on the 2026-27 job market!</strong>
+<!-- <strong>I am on the 2026-27 job market!</strong> -->
 
-<p style="font-size: 3.2em; font-weight: bold;">
+<p style="font-size: 2em; font-weight: bold;">
   I am on the 2026-27 job market!
 </p>
 
