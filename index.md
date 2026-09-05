@@ -10,6 +10,10 @@ I got an M.S. in Computational and Applied Mathematics from the University of Ch
 
 <strong>I am on the 2026-27 job market!</strong>
 
+<p style="font-size: 3.2em; font-weight: bold;">
+  I am on the 2026-27 job market!
+</p>
+
 ## Research Interests
 
 - Stochastic Programming, Nonconvex Optimization
