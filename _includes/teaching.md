@@ -15,6 +15,6 @@
 
 <h4 style="margin:0 10px 0;">Guest Lecturer, Georgia Tech</h4>
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 20px;">
   <li><autocolor>ISyE 8803 Optimization and Learning in Operations (graduate course, Spring 2025)</autocolor></li>
 </ul>
