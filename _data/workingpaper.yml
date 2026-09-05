@@ -1,0 +1,11 @@
+main:
+
+  - title: "Benign Nonconvex Landscape for Policy Optimization: Infinite-Horizon Discounted MDPs with General State and Action."
+    authors: Xin Chen, <strong>Minda Zhao</strong> (alphabetic order)
+  #   # conference_short: MICCAI
+    conference: Soon to be submitted
+    # arxiv: https://arxiv.org/abs/2511.03955
+    # ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5709506
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #  notes: 
