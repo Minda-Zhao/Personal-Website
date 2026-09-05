@@ -10,7 +10,7 @@ I got an M.S. in Computational and Applied Mathematics from the University of Ch
 
 <!-- <strong>I am on the 2026-27 job market!</strong> -->
 
-<p style="font-size: 2em; font-weight: bold;">
+<p style="font-size: 1.6em; font-weight: bold;">
   I am on the 2026-27 job market!
 </p>
 
