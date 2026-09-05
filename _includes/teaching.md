@@ -3,15 +3,18 @@
 <h4 style="margin:0 10px 0;">Instructor</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://pubsonline.informs.org/journal/opre"><autocolor>Operations Research</autocolor></a></li>
-  <li><a href="https://pubsonline.informs.org/journal/mnsc"><autocolor>Management Science</autocolor></a></li>
-  <li><a href="https://pubsonline.informs.org/journal/mnsc"><autocolor>Manufacturing & Service Operations Management</autocolor></a></li>
-  <li><a href="https://onlinelibrary.wiley.com/journal/15206750"><autocolor>Naval Research Logistics</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/10589"><autocolor>Computational Optimization and Applications</autocolor></a></li>
+  <li><autocolor>ISyE 3103 Supply Chain Modeling: Logistics (Georgia Tech, undergraduate course, Summer 2026)</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Session Chair</h4>
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://sites.google.com/view/iccopt2025/home"><autocolor>International Conference on Continuous Optimization (ICCOPT) 2025</autocolor></a></li>
+  <li><autocolor>ISyE 7682 Convexity (Georgia Tech, graduate course, Spring 2026)</autocolor></a></li>
+  <li><autocolor>ISyE 8803 Pricing and Revenue Management (Georgia Tech, graduate course, Spring 2023)</autocolor></a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Guest Lecturer</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>ISyE 8803 Optimization and Learning in Operations (Georgia Tech, graduate course, Spring 2025)</autocolor></a></li>
 </ul>
