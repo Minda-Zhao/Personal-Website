@@ -1,5 +1,15 @@
 main:
 
+  - title: "Benign Nonconvex Landscape for Policy Optimization: Infinite-Horizon Discounted MDPs with General State and Action."
+    authors: Xin Chen, <strong>Minda Zhao</strong> (alphabetic order)
+  #   # conference_short: MICCAI
+    conference: Submitted
+    # arxiv: https://arxiv.org/abs/2511.03955
+    ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7470718
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   # image: ./assets/img/teaser_example_2.png
+  #  notes: 
+
   - title: "Hidden Convexity in Queueing Models"
     authors: Xin Chen, Linwei Xin, <strong>Minda Zhao</strong> (alphabetic order)
   #   # conference_short: MICCAI
@@ -23,7 +33,7 @@ main:
   - title: "Landscape of Policy Optimization for Finite Horizon MDPs with General State and Action"
     authors: Xin Chen, Yifan Hu, <strong>Minda Zhao</strong> (alphabetic order)
     # conference_short: CVPR
-    conference: Under R&R at Operations Research, re-submitted
+    conference: Under Reject & Resubmit at Operations Research, resubmitted
     arxiv: https://arxiv.org/abs/2409.17138
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
