@@ -4,6 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>ISyE 3103 Supply Chain Modeling: Logistics (undergraduate course, Summer 2026)</autocolor></li>
+  - Teaching evaluation: 4.7/5.0
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant, Georgia Tech</h4>
