@@ -18,10 +18,10 @@ I got an M.S. in Computational and Applied Mathematics from the University of Ch
 
 My research lies at the intersection of Artificial Intelligence (AI) and Operations Research (OR), spanning theory and practice in AI-driven operations management. My interests include:
 
-- **Learning and optimization:** Theoretical foundations of reinforcement learning and optimization in inventory management and queueing systems.
-- **Human–AI interaction:** Analytical modeling and large-scale field experimentation on human supervision of algorithms.
+- **Optimization landscapes and global convergence:** Uncovering structural properties that enable gradient-based methods to converge to globally optimal solutions in reinforcement learning and operations management.
+- **Human–AI interaction:** Designing and evaluating human supervision of algorithms through analytical modeling and large-scale field experimentation.
 
-Applications include smart vending, service operations, and cash management.
+Applications include inventory management (such as smart vending replenishment), queueing systems in service operations, and cash management.
 
 {% include_relative _includes/preprints.md %}
 
