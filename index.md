@@ -16,8 +16,7 @@ I got an M.S. in Computational and Applied Mathematics from the University of Ch
 
 ## Research Interests
 
-- Stochastic Programming, Nonconvex Optimization
-- Operations Models, Optimal Control, Reinforcement Learning
+My research lies at the intersection of artificial intelligence and operations research, spanning the theoretical foundations and practical implementation of AI-driven operations management. I study learning and optimization in inventory and queueing systems, uncovering hidden convexity and other structural properties that enable gradient-based methods to converge to globally optimal solutions. I also study human–AI interaction, combining analytical modeling and large-scale field experimentation to examine how human supervision can improve algorithmic decisions by incorporating workers’ local knowledge. Applications of my work include inventory replenishment in smart vending, service operations, and cash management.
 
 {% include_relative _includes/preprints.md %}
 
