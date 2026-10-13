@@ -4,6 +4,7 @@
 
 <ul style="margin:0 0 20px;">
   <li>Finalist, INFORMS BOM Section Best Working Paper Competition, 2026</li>
+  <li>Finalist, Best Student Paper Award, AI in Business Conference, 2026</li>
   <li>Winner, CBOM Junior Scholar Paper Competition, 2026</li>
   <li>Shabbir Ahmed PhD Fellowship for Excellence in Research, 2025</li>
   - Awarded annually to one Ph.D. student (co-winner) in ISyE for research in optimization
