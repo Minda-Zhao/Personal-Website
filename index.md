@@ -16,7 +16,7 @@ I got an M.S. in Computational and Applied Mathematics from the University of Ch
 
 ## Research Interests
 
-My research lies at the intersection of Artificial Intelligence (AI) and Operations Research (OR), spanning theory and practice in AI-driven operations management. My interests include:
+My research lies at the intersection of Artificial Intelligence (AI), optimization, and Operations Research (OR), spanning theory and practice in AI-driven operations management. My interests include:
 
 - **Optimization landscapes and global convergence:** Uncovering structural properties that enable gradient-based methods to converge to globally optimal solutions in reinforcement learning and operations management.
 - **Human–AI interaction:** Designing and evaluating human supervision of algorithms through analytical modeling and large-scale field experimentation.
