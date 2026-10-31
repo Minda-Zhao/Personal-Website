@@ -23,6 +23,8 @@ My research lies at the intersection of Artificial Intelligence (AI), optimizati
 
 Applications include inventory management (such as smart vending replenishment), queueing systems in service operations, and cash management.
 
+{% include_relative _includes/talks.md %}
+
 {% include_relative _includes/preprints.md %}
 
 {% include_relative _includes/publications.md %}
