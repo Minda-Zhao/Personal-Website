@@ -14,6 +14,8 @@ I got an M.S. in Computational and Applied Mathematics from the University of Ch
   I am on the 2026-27 job market!
 </p>
 
+{% include_relative _includes/talks.md %}
+
 ## Research Interests
 
 My research lies at the intersection of Artificial Intelligence (AI), optimization, and Operations Research (OR), spanning theory and practice in AI-driven operations management. My interests include:
@@ -22,8 +24,6 @@ My research lies at the intersection of Artificial Intelligence (AI), optimizati
 - **Human–AI interaction:** Designing and evaluating human supervision of algorithms through analytical modeling and large-scale field experimentation.
 
 Applications include inventory management (such as smart vending replenishment), queueing systems in service operations, and cash management.
-
-{% include_relative _includes/talks.md %}
 
 {% include_relative _includes/preprints.md %}
 

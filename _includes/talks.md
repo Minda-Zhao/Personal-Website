@@ -1,8 +1,5 @@
 ## INFORMS 2026 Talks
 
-<p><a href="https://meetings.informs.org/wordpress/annual/">INFORMS Annual Meeting</a> · San Francisco · November 1–4, 2026<br>
-All times are local (Pacific Time).</p>
-
 <ul style="margin:0 0 20px;">
   <li style="margin-bottom:16px;">
     <strong>A Simple Solution to Improving Human Supervision of Algorithms: Evidence from Smart Vending</strong><br>
