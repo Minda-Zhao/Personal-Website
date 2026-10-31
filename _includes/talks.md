@@ -1,4 +1,4 @@
-## INFORMS 2026 Talks
+## News
 
 <ul style="margin:0 0 20px;">
   <li style="margin-bottom:16px;">
