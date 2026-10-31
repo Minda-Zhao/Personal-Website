@@ -1,4 +1,4 @@
-## News
+<p id="news" style="scroll-margin-top:90px;">I will be attending the 2026 INFORMS Annual Meeting and giving the following presentations:</p>
 
 <ul style="margin:0 0 20px;">
   <li style="margin-bottom:16px;">
