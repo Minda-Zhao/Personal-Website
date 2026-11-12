@@ -3,7 +3,7 @@
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4> -->
 
 <ul style="margin:0 0 20px;">
-  <li>Finalist, INFORMS BOM Section Best Working Paper Competition, 2026</li>
+  <li>Second Prize, INFORMS BOM Section Best Working Paper Competition, 2026</li>
   <li>Winner, Best Student Paper Award, AI in Business Conference, 2026</li>
   <li>Winner, CBOM Junior Scholar Paper Competition, 2026</li>
   <li>Shabbir Ahmed PhD Fellowship for Excellence in Research, 2025<br>
